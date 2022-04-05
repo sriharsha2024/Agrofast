@@ -3,12 +3,16 @@ A mobile application where farmers can track the progress/process of cultivation
 
 ## Flutter Application by Team Stack. 
 
+### Modules 
+async 2.8.1 - class allows expensive asynchronous computations values to be cached for a period of time.
+boolean_selector 2.1.0 - defines a simple and flexible syntax for boolean expressions , used for filtering based on user-defined expressions.
+characters 1.1.0 - class allows access to the individual characters of a string, and a way to navigate back and forth between them 
 
 ### Installation and running the app-
 
 -STEP-1: GO TO THE WEBSITE OF https://flutlab.io AND CLICK ON CLONE PROJECT FROM VCS.
 
--STEP-2: CLICK ON THE GITHUB ICON. 
+-STEP-2: CLICK ON THE GITHUB ICON . 
 
 -STEP-3: FILL THE DETAINS AS GIVEN BELOW-
         
@@ -24,7 +28,7 @@ A mobile application where farmers can track the progress/process of cultivation
 
 -STEP-6: AFTER THE BUILD YOU CAN SEE THE EMULATOR LOADING.
 
--STEP-7: THERE COMES THE MVP OF THE APP AFTER THE EMULATOR LOADS.
+-STEP-7: THERE COMES THE MVP OF THE APP AFTER THE EMULATOR LOADS (  change the size to - 414 x 896 ).
 
 -also refer to the pdf for step by step installation guide.
 
