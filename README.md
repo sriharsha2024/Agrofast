@@ -11,9 +11,12 @@ A mobile application where farmers can track the progress/process of cultivation
 -STEP-2: CLICK ON THE GITHUB ICON. 
 
 -STEP-3: FILL THE DETAINS AS GIVEN BELOW-
-         1)PASTE THE LINK https://github.com/sriharsha2024/Agrofast
-         2)FEATURE BRANCH NAME - ANY RANDOM NAME
-         3)PROJECT NAME- AGROFAST
+        
+        1)PASTE THE LINK https://github.com/sriharsha2024/Agrofast
+        
+        2)FEATURE BRANCH NAME - ANY RANDOM NAME
+        
+        3)PROJECT NAME- AGROFAST
 
 -STEP-4: CLICK ON THE CLONE
 
