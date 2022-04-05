@@ -10,7 +10,8 @@ boolean_selector 2.1.0 - defines a simple and flexible syntax for boolean expres
 
 characters 1.1.0 - class allows access to the individual characters of a string, and a way to navigate back and forth between them 
 
-### SCREENSHOTS OF THE APP
+### Screenshots of the app
+
 
 
 
