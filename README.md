@@ -10,6 +10,10 @@ boolean_selector 2.1.0 - defines a simple and flexible syntax for boolean expres
 
 characters 1.1.0 - class allows access to the individual characters of a string, and a way to navigate back and forth between them 
 
+charcode 1.3.1 - can generate constant symbolic names for character codes.
+
+clock 1.1.0 - class which encapsulates the notion of the "current time" and provides easy access to points relative to the current time.
+
 ### Screenshots of the app
 
 
