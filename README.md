@@ -30,7 +30,7 @@ characters 1.1.0 - class allows access to the individual characters of a string,
 
 -STEP-7: THERE COMES THE MVP OF THE APP AFTER THE EMULATOR LOADS (  change the size to - 414 x 896 ).
 
--also refer to the pdf for step by step installation guide.
+-also refer to the pdf for step by step installation guide https://github.com/sriharsha2024/Agrofast/blob/master/AGROFAST%20STEP%20INSTALLATION%20GUIDE01.pdf.
 
 ### YOUTUBE LINK/DEMO-
 https://youtu.be/_bWJVQLkoBQ
