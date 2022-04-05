@@ -1,10 +1,7 @@
 # Agrofast
-A mobile information delivery system where farmers can track the progress/process of cultivation through IOT   smart farming techniques. based on data from field mapping, this analytic software can predict and suggest the needed actions. Also equipped with alert systems of discrepancies or pest attacks.
+A mobile application where farmers can track the progress/process of cultivation through IOT  smart farming techniques. based on data from field mapping, this analytic software can predict and suggest the needed actions. can buy/rent adavanced technology equipment , requirements. sell their products directly , take suggestions from doctors regarding crop defects.
 
-
-
-
-## Flutter Application by team stack. 
+## Flutter Application by Team Stack. 
 
 ### Installation and running the app-
 
